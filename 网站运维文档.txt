@@ -1,0 +1,3 @@
+hexo clean - 清除缓存文件
+hexo g     - 生成缓存文件
+hexo s     -本地查看效果
